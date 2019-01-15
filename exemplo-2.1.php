@@ -8,7 +8,7 @@ define("BANCO_DE_DADOS", [
 'test'
 
 
-// Utilizo o true no fim para case insensitive para aceitar letras maiuscular e minusculas
+// Utilizo o true no fim para case insensitive para aceitar letras maiusculas e minusculas
 ],true);
 
 print_r(BANCO_DE_DADOS);
